@@ -1,7 +1,0 @@
-01-SQLi-Test.png
-02-SQLi-Detection.png
-03-XSS-Test.png
-04-XSS-Blocked.png
-05-CMDi-Test.png
-06-CMDi-Blocked.png
-07-WAF-Logs.png
