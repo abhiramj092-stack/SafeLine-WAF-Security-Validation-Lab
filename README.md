@@ -80,31 +80,31 @@ Result:
 
 ### SQL Injection Test
 
-![SQLi](Screenshots/01-SQLi-Test.png)
+01-SQLi-Test.png
 
 ### SQL Injection Detection
 
-![SQLi Detection](Screenshots/02-SQLi-Detection.png)
+02-SQLi-Detection.png
 
 ### XSS Test
 
-![XSS](Screenshots/03-XSS-Test.png)
+03-XSS-Test.png
 
 ### XSS Blocked
 
-![XSS Blocked](Screenshots/04-XSS-Blocked.png)
+04-XSS-Blocked.png
 
 ### Command Injection Test
 
-![CMDi](Screenshots/05-CMDi-Test.png)
+05-CMDi-Test.png
 
 ### Command Injection Blocked
 
-![CMDi Blocked](Screenshots/06-CMDi-Blocked.png)
+06-CMDi-Blocked.png
 
 ### SafeLine WAF Attack Logs
 
-![Logs](Screenshots/07-WAF-Logs.png)
+07-WAF-Logs.png
 
 ---
 
